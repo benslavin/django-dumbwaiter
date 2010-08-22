@@ -1,0 +1,4 @@
+*.py[c|o]
+*.db
+*.DS_Store
+
