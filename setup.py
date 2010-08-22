@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(name='django-dumbwaiter',
       version='0.1',
       description='Asynchronous function execution with cached results',
-      author='Ben Slavn',
+      author='Ben Slavin',
       author_email='benjamin.slavin@gmail.com',
       url='https://github.com/benslavin/django-dumbwaiter/',
       packages=['dumbwaiter'],
